@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Subhransu Swain.
+- 👀 I’m interested in data science, cloud computing, and DevOps.
+- 🌱 I’m currently learning Kubernetes, microservices, and blockchain integration
+- 💞️ I’m looking to collaborate on open-source projects related to cloud infrastructure, AI, and scalable systems
+- 📫 How to reach me subhransuswain1997@gmail.com
+- ⚡ Fun fact: I love blending tech with sustainability, working on solar-powered IoT projects in my free time.
